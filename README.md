@@ -22,3 +22,8 @@
 * MPU6050 SDA pin: 20
 * HC-05 rx pin: 8
 * HC-05 tx pin: 7
+
+=== LED status
+* green -- All clear
+* blue -- object detected
+* red -- boot in progress/error
